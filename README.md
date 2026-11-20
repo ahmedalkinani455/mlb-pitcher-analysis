@@ -26,5 +26,6 @@ Key findings
 - Differences between actual and expected wOBA should not automatically be interpreted as luck or repeatable skill.
 
 ## Final Dashboard
-[mlb-pitcher-analysis-dashbord - Dashboard.pdf](https://github.com/user-attachments/files/35119299/mlb-pitcher-analysis-dashbord.-.Dashboard.pdf)
+<img width="3309" height="2339" alt="mlb-pitcher-analysis-dashbord - Dashboard-1" src="https://github.com/user-attachments/assets/6108762f-5038-4aa7-b961-2a2207f328b8" />
+<img width="3309" height="2339" alt="mlb-pitcher-analysis-dashbord - Dashboard-2" src="https://github.com/user-attachments/assets/2fe3b605-de8d-43e2-b40d-b73142672d0a" />
 
