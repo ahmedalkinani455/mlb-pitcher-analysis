@@ -3,11 +3,11 @@
 
 An exploratory baseball analytics project examining relationships between pitcher strikeout ability, contact quality, and actual versus expected offensive outcomes allowed.
 
-Tools used
+## Tools used
 - Python: pandas, NumPy, Matplotlib, statsmodels
 - SQL: SQLite
 - Spreadsheet: Google Sheets / Excel
-Research questions
+## Research questions
 1. Is there an association between strikeout percentage and wOBA?
 2. How are hard-hit percentage and barrel rate associated with wOBA?
 3. How closely do actual wOBA and expected wOBA align?
@@ -19,8 +19,12 @@ Key findings
 - Actual wOBA and expected wOBA had a correlation of 0.847.
 
 
-Limitations
+## Limitations
 - The dataset contains 52 pitchers.
 - The analysis is observational and does not establish causation.
 - Team, opponent, park and game-context information was unavailable.
 - Differences between actual and expected wOBA should not automatically be interpreted as luck or repeatable skill.
+
+## Final Dashboard
+[mlb-pitcher-analysis-dashbord - Dashboard.pdf](https://github.com/user-attachments/files/35119251/mlb-pitcher-analysis-dashbord.-.Dashboard.pdf)
+
